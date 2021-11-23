@@ -1,0 +1,26 @@
+{
+  "name": "mynba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymanGosh/MyNBA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymanGosh/MyNBA/issues"
+  },
+  "homepage": "https://github.com/AymanGosh/MyNBA#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "request": "^2.88.2",
+    "urllib": "^2.37.4"
+  }
+}

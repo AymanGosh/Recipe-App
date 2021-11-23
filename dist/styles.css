@@ -1,0 +1,55 @@
+body {
+  background-color: #f8f8ff;
+}
+/*  mainDiv ----------------------  */
+.mainDiv {
+  background-color: #f8f8ff;
+  margin: 30px;
+  padding-top: 2px;
+}
+
+/*  menuDiv ----------------------  */
+.menuDiv {
+  margin: 30px;
+}
+
+#ingredients-input {
+  width: 85%;
+}
+
+#ingredients-btn {
+  margin-left: 30px;
+  width: 10%;
+}
+/* ------------------------------ */
+
+/* dataDiv -----------------------*/
+.dataDiv {
+  background-color: #f8f8ff;
+  text-align: center;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 30px;
+  padding: 10px;
+}
+.playerDiv {
+  display: grid;
+  background-color: #7fffd4;
+  text-align: center;
+  /* align-content: center; */
+  border-radius: 4px;
+}
+
+.photoHolder {
+  background-color: #f8f8ff;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+/* ********-----------------------*/
+
+.IngredientsList {
+  background-color: #e9967a;
+  border-radius: 50%;
+}
